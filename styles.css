@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #0d0d0d;
+  }
+  
+  h1, h3 {
+    color: #ffffff;
+  }
+  
+  a.list-group-item:hover {
+    background-color: #222;
+  }
+  img{
+    margin-left: 70px;
+    margin-bottom: 25px;
+  }  
